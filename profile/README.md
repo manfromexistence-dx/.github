@@ -18,7 +18,7 @@ Now that we are talking about the important things ☝️, are you contributing 
 
 We contribute to the tools 🔧 we rely on to build and run dx, while also maintaining 🧙‍♂️ our own open source projects like:
 
-- [dx CLI](https://github.com/cli/cli) - A command line tool for dx
+- [DX CLI](https://github.com/cli/cli) - A command line tool for dx
 - [Drimer](https://github.com/primer/css) - The dx design system
 
 ### 👓 Appendix
