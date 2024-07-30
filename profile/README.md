@@ -2,7 +2,7 @@
 
 ![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
 
-Yes, we are building DX on Github and also Gitlab & Bitbucket. In fact, we’ve been doing this since **July 30th, 2024**. That's when we made our first commit. Since then we pushed **over 1 commits**, opened **over 1 issues**, submitted roughly **over 1 pull requests** across **1 repositories** from over **planet called earth** 🤯. But that's just us/me. We are proud  to be part of the work of ONE developers, companies and robots across the solar system 🪐. Yes, [Robots](https://github.com/readme/featured/nasa-ingenuity-helicopter)!
+Yes, we are building DX on Github and also Gitlab & Bitbucket. In fact, we’ve been doing this since **July 30th, 2024**. That's when we made our first commit. Since then we pushed **over 1 commits or even less**, opened **over 1 issues**, submitted roughly **over 1 pull requests or even less** across **1 repositories or even less** from over **planet called earth** 🤯. But that's just us/me. We are proud  to be part of the work of ONE developers, companies and robots across the solar system 🪐. Yes, [Robots](https://github.com/readme/featured/nasa-ingenuity-helicopter)!
 
 ### 🍿 An interconnected community
 
